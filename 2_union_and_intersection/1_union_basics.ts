@@ -1,6 +1,6 @@
 /**
  * Union
- * TS에서 타입을 병합할 수 있는 수많은 방법 중 하나
+ * or 조건으로 타입을 병합
  */
 type stringOrBooleanType = string | boolean
 let stringOrBoolean: stringOrBooleanType = '아이브';
